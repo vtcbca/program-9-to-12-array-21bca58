@@ -1,0 +1,11 @@
+WAP to enter any string and find and print the total number of vowels in it.
+
+Input: Om sai RAM
+
+Output:
+
+Inputted string is : Om sai RAM
+
+Vowels : O,a,i,A
+
+Total Vowels : 4
